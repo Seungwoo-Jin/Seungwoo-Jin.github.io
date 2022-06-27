@@ -20,7 +20,7 @@
   description: | # this will include new lines to allow paragraphs
      **Systems for intracranial self-stimulation**
      
-     This system is invented to precisely control visual stimuli for understanding how the hippocampus process visuospatial information to fire in location-selective firing (i.e., place cell). I developed this customized virtual reality system from scratch in hardware and software systems
+     This system is designed for replacing natural rewards (e.g., sugar-coated cereal) with stimulation of the lateral hypothalamus. I developed a customized conditioning chamber, surgical technique, customized stimulation-controlled system. I currently apply it to spatial memory tasks in T-maze or virtual reality environments.
 
 - layout: left
   image: images/radialarm2.jpg
