@@ -1,5 +1,5 @@
 <div class="container experience-container">
-  <h3>{{ site.education_title | default: "Rodent Experimental Systems developed during graduate student" }}</h3>
+  <h3>{{ site.education_title | default: "Rodent Experimental Systems during graduate student" }}</h3>
   <p class="quote"></p>
   {% for education in site.data.skill %}
     {% include {{ education.layout | default: 'left' | append: ".html" }} item=education %}
