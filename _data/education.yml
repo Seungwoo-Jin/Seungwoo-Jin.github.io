@@ -1,0 +1,20 @@
+- layout: left
+  name: 2014 - 2021
+  description: | # this will include new lines to allow paragraphs
+    **Ph.D. Brain and Cognitive Sciences**, Seoul National University, Seoul, Korea
+    
+    *Supervisor*: Inah Lee, Ph.D.
+    
+    *Thesis title*: Differential functions of the dorsal and intermediate hippocampus in encoding place and its value *(Best Doctoral Thesis Award)*
+    
+- layout: left
+  name: 2009 - 2014
+#  dates: 2015.03 ~ 2015.06
+#  qualification: 모바일보안과
+#  quote: >
+#    경기도 소재 전문대학교
+  description: | # this will include new lines to allow paragraphs
+    **B.E. Electronic Engineering & B.A. Psychology**
+    
+    Kyungpook National University, Daegu, Korea
+    

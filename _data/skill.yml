@@ -1,0 +1,33 @@
+- layout: left
+  image: images/vrsystem.jpeg
+#  name: 2022
+  description: | # this will include new lines to allow paragraphs
+     **Systems for rodent virtual reality experiment**
+     
+     This system is invented to precisely control visual stimuli for understanding how the hippocampus process visuospatial information to fire in location-selective firing (i.e., place cell). I developed this customized virtual reality system from scratch in hardware and software systems
+
+- layout: left
+  image: images/swr.jpg
+#  name: 2022
+  description: | # this will include new lines to allow paragraphs
+     **Systems for online sharp-wave ripple detection, analysis and disruption**
+     
+     This system is devised for understanding the functional significance of sharp-wave ripple in the hippocampus. This system can analyze SWR profiles in real-time (e.g., number and frequency of SWR), monitor animal behavior, and disrupt SWR by electrical stimulation
+    
+- layout: left
+  image: images/icss.jpg
+#  name: 2022
+  description: | # this will include new lines to allow paragraphs
+     **Systems for intracranial self-stimulation**
+     
+     This system is invented to precisely control visual stimuli for understanding how the hippocampus process visuospatial information to fire in location-selective firing (i.e., place cell). I developed this customized virtual reality system from scratch in hardware and software systems
+
+- layout: left
+  image: images/radialarm2.jpg
+#  name: 2022
+  description: | # this will include new lines to allow paragraphs
+     **Systems for radial arm maze with automated door**
+     
+     This system is designed to automatically open or close the door in the eight-arm maze for spatial memory tasks
+
+    

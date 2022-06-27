@@ -1,0 +1,16 @@
+- layout: left
+  image: images/ledcube.jpg
+
+  description: | # this will include new lines to allow paragraphs
+     **14×14×14 3D LED cube**
+     
+     I developed 3D LED cube in the club (name: BITDOL) at Kyungpook National University. 
+     - [Demo video](https://www.youtube.com/watch?v=y4fiCE76kZo)
+     
+- layout: left
+  image: images/wheelchair.jpg
+  description: | # this will include new lines to allow paragraphs
+     **Wheelchair controlled by arm motion**
+     
+     This work was invented to control the wheelchair by arm motion (e.g., go straight, turn left, and turn right). Kinect (XBOX 360, Microsoft) was used to recognize the arm motion. I developed a software system for Kinect based on the C language.
+    

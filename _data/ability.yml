@@ -1,0 +1,13 @@
+- layout: left
+  image: images/skill.jpg
+
+  description: | # this will include new lines to allow paragraphs
+    **In vivo electrophysiological recording** in freely moving animals
+    
+    **Developing rodent experiment systems** for various behavioral tasks
+    
+    **Electronic circuit design and production** (soldering/PCB) for rodent experiment systems
+    
+    **Programming language** (MATLAB, Python, C language, R, Arduino, and Unreal engine)
+    
+    **CAD design software** (Inventor, Solidworks)
