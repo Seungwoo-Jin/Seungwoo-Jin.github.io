@@ -1,1 +1,5 @@
+- layout: left
+  image: images/currentbiology.jpg
 
+  description: | # this will include new lines to allow paragraphs
+     **Jin, S.W.**, and Lee, I. (2021). Differential encoding of place value between the dorsal and intermediate hippocampus. Current Biology. 
