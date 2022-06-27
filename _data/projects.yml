@@ -2,13 +2,13 @@
   image: images/currentbiology.jpg
 
   description: | # this will include new lines to allow paragraphs
-    **Jin, S.W.**, and Lee, I. (2021). Differential encoding of place value between the dorsal and intermediate hippocampus. Current Biology. [*link*](https://doi.org/10.1016/j.cub.2021.04.073)
+    **Jin, S.W.**, and Lee, I. (2021). Differential encoding of place value between the dorsal and intermediate hippocampus. Current Biology. [**link**](https://doi.org/10.1016/j.cub.2021.04.073)
      
-    *Preview by Costa and Schoenbaum in Current Biology.* [https://doi.org/10.1016/j.cub.2021.05.051](https://doi.org/10.1016/j.cub.2021.05.051)
+    *Preview by Costa and Schoenbaum in Current Biology.* [**link**](https://doi.org/10.1016/j.cub.2021.05.051)
 
 - layout: left
   image: images/hippocampus.jpg
 
   description: | # this will include new lines to allow paragraphs
-     Lee, S.M., **Jin, S.W.**, Park, S.B., Park, E.H., Lee, C.H., Lee, H.W., Lim, H.Y., Yoo, S.W., Ahn, J.R., Shin, J., Lee, S.A., and Lee, I. (2021). Goal-directed interaction of stimulus and task demand in the parahippocampal region. Hippocampus. [*link*](https://doi.org/10.1002/hipo.23295)
+     Lee, S.M., **Jin, S.W.**, Park, S.B., Park, E.H., Lee, C.H., Lee, H.W., Lim, H.Y., Yoo, S.W., Ahn, J.R., Shin, J., Lee, S.A., and Lee, I. (2021). Goal-directed interaction of stimulus and task demand in the parahippocampal region. Hippocampus. [**link**](https://doi.org/10.1002/hipo.23295)
       
