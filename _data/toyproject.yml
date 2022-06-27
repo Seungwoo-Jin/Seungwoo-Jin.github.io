@@ -1,1 +1,6 @@
+- layout: left
+  image: images/hbs.jpg
 
+  description: | # this will include new lines to allow paragraphs
+    "Hippocampal functions of encoding the place and its value" (2021). BRIC Webinar. [*https://www.youtube.com/watch?v=VYSuv0xUlXs*](https://www.youtube.com/watch?v=VYSuv0xUlXs) 
+     
