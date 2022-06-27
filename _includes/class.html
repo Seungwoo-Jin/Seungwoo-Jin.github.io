@@ -1,5 +1,5 @@
 <div class="container education-container">
-  <h3>{{ site.class_title | default: "Electronic projects during undergraduate" }}</h3>
+  <h3>{{ site.class_title | default: "Electronics Projects during undergraduate" }}</h3>
   {% for class in site.data.class %}
     {% include {{ class.layout | default: 'left' | append: ".html" }} item=class %}
   {% endfor %}
