@@ -4,7 +4,8 @@
   description: | # this will include new lines to allow paragraphs
      **Systems for rodent virtual reality experiment**
      
-     This system is invented to precisely control visual stimuli for understanding how the hippocampus process visuospatial information to fire in location-selective firing (i.e., place cell). I developed this customized virtual reality system from scratch in hardware and software systems
+     This system is invented to precisely control visual stimuli for understanding how the hippocampus process visuospatial information 
+     to fire in location-selective firing (i.e., place cell). I developed this customized virtual reality system from scratch in hardware and software systems
      
      *Patent* - Lee, I., **Jin, S.W.** (2021). Virtual reality behavioral experimental system for rodents and method for controlling the same. *KR patent*. Under review.
 
@@ -14,7 +15,8 @@
   description: | # this will include new lines to allow paragraphs
      **Systems for online sharp-wave ripple detection, analysis and disruption**
      
-     This system is devised for understanding the functional significance of sharp-wave ripple in the hippocampus. This system can analyze SWR profiles in real-time (e.g., number and frequency of SWR), monitor animal behavior, and disrupt SWR by electrical stimulation
+     This system is devised for understanding the functional significance of sharp-wave ripple in the hippocampus. This system can analyze SWR profiles 
+     in real-time (e.g., number and frequency of SWR), monitor animal behavior, and disrupt SWR by electrical stimulation
     
      *Patent* - Lee, I., **Jin, S.W.** (2022). Method, apparatus and system for analyzing hippocampal ripple. *KR patent*. Under review.
      
@@ -24,7 +26,9 @@
   description: | # this will include new lines to allow paragraphs
      **Systems for intracranial self-stimulation**
      
-     This system is designed for replacing natural rewards (e.g., sugar-coated cereal) with stimulation of the lateral hypothalamus. I developed a customized conditioning chamber, surgical technique, and customized stimulation-controlled system. I currently apply it to spatial memory tasks in T-maze or virtual reality environments.
+     This system is designed for replacing natural rewards (e.g., sugar-coated cereal) with stimulation of the lateral hypothalamus. 
+     I developed a customized conditioning chamber, surgical technique, and customized stimulation-controlled system. I currently apply 
+     it to spatial memory tasks in T-maze or virtual reality environments.
 
 - layout: left
   image: images/radialarm2.jpg
