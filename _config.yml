@@ -3,7 +3,7 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Seung-Woo Jin
+name: Seung-Woo Jin, Ph.D.
 title: Postdoctoral Research Associate
 email: mi797912@snu.ac.kr
 website: https://seungwoo-jin.github.io/
@@ -25,8 +25,8 @@ linkedin_username: seung-woo-jin-a5079213b
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-  Hello, I am a neuroscience researcher and currently a postdoctoral research fellow at Seoul National University. My research interest is how emotion modulates the cognition system, e.g., learning and memory. 
-  During my doctoral training (adviser, Inah Lee Ph.D.), I focused on how place cells from the longitudinal axis of the hippocampus differentially process place and value information. 
+  Hello, I am a neuroscience researcher and currently a postdoctoral research fellow at Seoul National University. My research interest is how emotion modulates the cognition system, especially for learning and memory. 
+  During my doctoral training, I focused on how place cells along the longitudinal axis of the hippocampus differentially process place and value information. 
   
   [*Curriculum Vitae*](https://drive.google.com/file/d/1Wm2OcrFwRr9q-q4mRxP0E6mAs9mlBT04/view?usp=sharing)
 
