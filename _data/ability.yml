@@ -1,13 +1,22 @@
 - layout: left
-  image: images/skill.jpg
+  image: images/hyperdrive.jpg
 
   description: | # this will include new lines to allow paragraphs
-    **In vivo electrophysiological recording** in freely moving animals
-    
+    **In vivo electrophysiological recording** in freely moving animals using tetrodes
+
+
+- layout: left
+  image: images/pcb.jpg
+
+  description: | # this will include new lines to allow paragraphs
     **Electronic circuit design and production** for rodent experimental systems
     
     **Developing rodent experimental systems** for behavioral memory tasks
     
+- layout: left
+  image: images/programming.png
+
+  description: | # this will include new lines to allow paragraphs
     **Programming language** (MATLAB, Python, C language, R, Arduino, and Unreal engine)
     
     **CAD design software** (Inventor, Solidworks)
