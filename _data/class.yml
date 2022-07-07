@@ -4,7 +4,7 @@
   description: | # this will include new lines to allow paragraphs
      **14×14×14 3D LED cube**
      
-     I developed 3D LED cube in the club (name: BITDOL) at Kyungpook National University. 
+     By soldering the 2744ea Micro LED, I produced 3D LED cube when I was undergraudate students at Kyungpook National University. This was designed for showing beautiful display patterns and for 3D tetris game.
      - [*Demo video*](https://www.youtube.com/watch?v=y4fiCE76kZo)
      
 - layout: left
@@ -12,5 +12,5 @@
   description: | # this will include new lines to allow paragraphs
      **Wheelchair controlled by arm motion**
      
-     This work was invented to control the wheelchair by arm motion (e.g., go straight, turn left, and turn right). Kinect (XBOX 360, Microsoft) was used to recognize the arm motion. I developed a software system for Kinect based on the C language.
+     This work was invented to control the wheelchair by arm motion (e.g., go straight, turn left, and turn right). Kinect (XBOX 360, Microsoft) was used to recognize the arm motion. Based on C language, I developed a software system to control the Kinect.
     
