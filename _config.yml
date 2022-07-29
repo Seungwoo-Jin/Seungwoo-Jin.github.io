@@ -28,8 +28,9 @@ about_content: | # this will include new lines to allow paragraphs
   Hello, I am a postdoctoral research fellow at Seoul National University. I received my PhD in Brain and Cognitive Sciences at the Seoul National University working in Professor Inah Lee systems neuroscience laboratory in August 2021. During my doctoral training, I became proficient in simultaneous recordings of place cells across the dorsoventral axis of the hippocampus to test the hypothesis that the intermediate hippocampus integrates place and its reward value information. 
   My main motivation for pursuing neuroscience was due to my undergraduate experience in psychology counseling, 
   which sparked my curiosity about how emotions can control the strength of autobiographical memory. 
-  My long-term goal is to reveal the mechanisms subserving how emotionally arousing events can be remembered for a lifetime 
-  and ultimately find treatments to heal traumatic and painful memories. 
+  # My long-term goal is to reveal the mechanisms subserving how emotionally arousing events can be remembered for a lifetime 
+  # and ultimately find treatments to heal traumatic and painful memories. 
+  
   [*Curriculum Vitae*](https://drive.google.com/file/d/1Wm2OcrFwRr9q-q4mRxP0E6mAs9mlBT04/view?usp=sharing)
 
 
