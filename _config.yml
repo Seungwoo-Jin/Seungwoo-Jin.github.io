@@ -3,18 +3,19 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: 이준현 (Lee Jun Hyun)
-title: Back-End Developer
-email: dlwnsgus777@naver.com
-website: https://pro-dev.tistory.com/
+name: Seung-Woo Jin, Ph.D.
+title: Postdoctoral Research Associate
+email: mi797912@snu.ac.kr
+website: https://seungwoo-jin.github.io/
 
 # Social links
-github_username: dlwnsgus777
-# dribbble_username: jekyll
+github_username: Seungwoo-Jin
+twitter_username: SeungWooJin2
+orcid_username: Seung-Woo Jin
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: chillwildlife
-linkedin_username: 준현-이-043767168
+linkedin_username: seung-woo-jin-a5079213b
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -22,15 +23,16 @@ linkedin_username: 준현-이-043767168
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  나이 : 30 세 (1993년 생) 
-  최종 학력 : 전문대졸 (안산대학교)
-  사는 곳 : 인천광역시
-  병역사항 : 이등병 소집해제 (2015.12 ~ 2018.02) - 산업체 복무 (생산직)
-  사용 기술 : <mark>Java</mark> <mark>Spring</mark> <mark>JavaScript</mark> <mark>Node</mark>
-  <mark>Back-end</mark> 개발 업무를 하고 있습니다.
-  유지 보수하기 쉽고, 지속적으로 성장 가능한 소프트웨어에 관심이 많습니다. 때문에 테스트 작성을 중요하게 생각하고 있으며 
-  현재 테스트 코드 도입을 위해 새로운 프로젝트 진행시 테스트 코드 작성을 병행하며 개발하고 있습니다.
+#about_content: | # this will include new lines to allow paragraphs
+ # Hello, I am a neuroscience researcher and currently a postdoctoral research fellow at Seoul National University. My research interest is how emotion modulates the cognition system, especially for learning and memory. 
+  
+  # During my doctoral training, I focused on how place cells along the longitudinal axis of the hippocampus differentially process place and value information. 
+  
+  # [*Curriculum Vitae*](https://drive.google.com/file/d/1Wm2OcrFwRr9q-q4mRxP0E6mAs9mlBT04/view?usp=sharing)
+  
+
+
+
 #연락처 : 010 - 3219 - 0466
 
 # Projects Section
@@ -46,9 +48,10 @@ about_content: | # this will include new lines to allow paragraphs
 # test_title: test
 
 # More Section
-more_title: 그 밖에 활동
-more_content: | # this will include new lines to allow paragraphs
-  - [개인 블로그](https://pro-dev.tistory.com/)
+#more_title: 그 밖에 활동
+#more_content: | # this will include new lines to allow paragraphs
+#  - [개인 블로그](https://pro-dev.tistory.com/)
+
 # Footer
 footer_show_references: true
 
@@ -62,4 +65,4 @@ sass:
   style: compressed
 
 plugins:
-  - jekyll-seo-tag
+  - Seung-Woo Jin-tag
